@@ -60,6 +60,9 @@
     width: 400px;
     margin-right: auto;
     margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .button-sign-up {
@@ -71,4 +74,12 @@
     height: 25px;
     border-radius: 7px;
     margin-top: 5px;
+}
+
+.header-for-first-paragraph {
+    font-size: 40px;
+}
+
+.header-h4 {
+    font-size: 20px;
 }
